@@ -1,0 +1,26 @@
+{
+  "name": "quotes-and-facts",
+  "version": "1.0.0",
+  "description": "You can use this package to generate quotes and facts within your discord bot!",
+  "main": "index.js",
+  "readme": "readme.md:",
+  "contributors": [
+    {
+      "name": "tickleskitty",
+      "email": "lpeake1112@gmail.com"
+    }
+  ],
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tickleskitty/factsandquotes.git"
+  },
+  "keywords": [
+    "quotes",
+    "facts"
+  ],
+  "author": "tickleskitty",
+  "license": "ISC"
+}
