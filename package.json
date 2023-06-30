@@ -10,9 +10,6 @@
       "email": "lpeake1112@gmail.com"
     }
   ],
-  "scripts": {
-    "test": "test"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tickleskitty/factsandquotes.git"
